@@ -1,0 +1,17 @@
+D:\Practice\AccountOwnerServer\LoggerService\bin\Debug\net6.0\LoggerService.deps.json
+D:\Practice\AccountOwnerServer\LoggerService\bin\Debug\net6.0\LoggerService.dll
+D:\Practice\AccountOwnerServer\LoggerService\bin\Debug\net6.0\LoggerService.pdb
+D:\Practice\AccountOwnerServer\LoggerService\bin\Debug\net6.0\Contracts.dll
+D:\Practice\AccountOwnerServer\LoggerService\bin\Debug\net6.0\Contracts.pdb
+D:\Practice\AccountOwnerServer\LoggerService\obj\Debug\net6.0\LoggerService.csproj.AssemblyReference.cache
+D:\Practice\AccountOwnerServer\LoggerService\obj\Debug\net6.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\AccountOwnerServer\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfoInputs.cache
+D:\Practice\AccountOwnerServer\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfo.cs
+D:\Practice\AccountOwnerServer\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\Practice\AccountOwnerServer\LoggerService\obj\Debug\net6.0\LoggerSe.E7AEA5A8.Up2Date
+D:\Practice\AccountOwnerServer\LoggerService\obj\Debug\net6.0\LoggerService.dll
+D:\Practice\AccountOwnerServer\LoggerService\obj\Debug\net6.0\refint\LoggerService.dll
+D:\Practice\AccountOwnerServer\LoggerService\obj\Debug\net6.0\LoggerService.pdb
+D:\Practice\AccountOwnerServer\LoggerService\obj\Debug\net6.0\ref\LoggerService.dll
+D:\Practice\AccountOwnerServer\LoggerService\bin\Debug\net6.0\Entities.dll
+D:\Practice\AccountOwnerServer\LoggerService\bin\Debug\net6.0\Entities.pdb

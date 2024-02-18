@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "R4VCthI7I55pPrC61d9ndnzXqN6xnwY+U/cpWslFKNI=",
+  "Source": "AccountOwnerServer",
+  "BasePath": "_content/AccountOwnerServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

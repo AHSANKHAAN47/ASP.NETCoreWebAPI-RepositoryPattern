@@ -1,0 +1,15 @@
+D:\Practice\AccountOwnerServer\Contracts\bin\Debug\net6.0\Contracts.deps.json
+D:\Practice\AccountOwnerServer\Contracts\bin\Debug\net6.0\Contracts.dll
+D:\Practice\AccountOwnerServer\Contracts\bin\Debug\net6.0\Contracts.pdb
+D:\Practice\AccountOwnerServer\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\AccountOwnerServer\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+D:\Practice\AccountOwnerServer\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+D:\Practice\AccountOwnerServer\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+D:\Practice\AccountOwnerServer\Contracts\obj\Debug\net6.0\Contracts.dll
+D:\Practice\AccountOwnerServer\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+D:\Practice\AccountOwnerServer\Contracts\obj\Debug\net6.0\Contracts.pdb
+D:\Practice\AccountOwnerServer\Contracts\obj\Debug\net6.0\ref\Contracts.dll
+D:\Practice\AccountOwnerServer\Contracts\bin\Debug\net6.0\Entities.dll
+D:\Practice\AccountOwnerServer\Contracts\bin\Debug\net6.0\Entities.pdb
+D:\Practice\AccountOwnerServer\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+D:\Practice\AccountOwnerServer\Contracts\obj\Debug\net6.0\Contracts.csproj.Up2Date
